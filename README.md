@@ -22,7 +22,3 @@ Mode 2 = Risk per trade as a percent of current capital
 
 
 
-## Sample Output : 
-
-
-<img src="plots/20221221180812_WR_30_RR_4_RPT_5000_SIMS_100_MODE_1.png" alt="Plot" width="800"/>
